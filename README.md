@@ -35,10 +35,16 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-An exposition of the whole eight chapiter to the Romaines, expounded by Ihon Hedlambe, preacher and 
+
+1. To the right woorſhipfull maiſter Thomas Meade, one of the Queenes Maisties Iuſtices of her common Plees at Weſtminſter, Ihon Hedlambe wiſheth long life, with the increaſe of godlineſſe and felicitie.
+
+1. ¶The Printer to the gentle Reader.
+
 #####Body#####
 
-1. ¶ The ſeconde part.
+1. ¶ Octauum caput ad Romanos.
+
+    _ ¶ The ſeconde part.
 
 **Types of content**
 
